@@ -1,4 +1,5 @@
-## Sup everyone welcome to my git guide
+## Welcome to Git
 
 - yo jordan here
+- this is coming from merge-conflict
 - im adding this from "bug-branch"
